@@ -19,7 +19,7 @@ Open the terminal and go to the path where the downloaded files are. After that 
 `ruby main.rb`
 
 
-#3 Enjoy 
+# 3 Enjoy 
 
 Note: This is a prototype project which means it could contain errors if you find any or want to deliver any feedback
 don't hesitate to reach out at: cefita@alumnat.copernic.cat 
