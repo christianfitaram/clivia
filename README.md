@@ -11,6 +11,7 @@ You may already have Ruby installed on your computer. You can check inside a ter
 `ruby -v`
 
 In case you do not have it installed you can do it following the next official ruby guidelines: 
+
 https://www.ruby-lang.org/en/documentation/installation/
 
 # 2. Start the game
