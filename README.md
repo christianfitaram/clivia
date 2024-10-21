@@ -17,6 +17,6 @@ Open the terminal and go to the path where the downloaded files are. After that 
 
 #3 Enjoy 
 
-Note: This is a prototype project which means it could contain errors, if you find any or want to deliver any feedback
-don't hesitate to reach me out at: cefita@alumnat.copernic.cat 
+Note: This is a prototype project which means it could contain errors if you find any or want to deliver any feedback
+don't hesitate to reach out at: cefita@alumnat.copernic.cat 
 
